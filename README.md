@@ -1,10 +1,10 @@
-#Mobilisation de Créance — BTE Desktop Application
+# Mobilisation de Créance — BTE Desktop Application
 
 > A Java Swing desktop application developed during a summer internship at **Banque de Tunisie et des Emirats (BTE)** to manage and process debt claim mobilization operations.
 
 ---
 
-##Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Features](#features)
@@ -16,13 +16,13 @@
 
 ---
 
-##About the Project
+## About the Project
 
 This application was built to digitize and streamline the **mobilisation de créance** process at BTE. It allows authorized bank staff to log in securely, manage credit type references, process claim records, and export data to Excel for reporting purposes.
 
 ---
 
-##Features
+## Features
 
 -  **Secure Login System** — username/password authentication with session logging
 -  **Main Dashboard** — branded interface with BTE visual identity
@@ -34,7 +34,7 @@ This application was built to digitize and streamline the **mobilisation de cré
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -46,7 +46,7 @@ This application was built to digitize and streamline the **mobilisation de cré
 
 ---
 
-##Project Structure
+## Project Structure
 
 ```
 mobilisation-swing-app/
@@ -72,7 +72,7 @@ mobilisation-swing-app/
 
 ---
 
-##Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ mobilisation-swing-app/
 - Maven 3.6+
 - IntelliJ IDEA (recommended) or any Java IDE
 
-###Installation
+### Installation
 
 1. Clone the repository:
    ```bash
@@ -111,7 +111,7 @@ Password: admin123
 
 ---
 
-##Usage
+## Usage
 
 1. Launch the app — the **BTE login screen** appears
 2. Enter credentials to access the main dashboard
@@ -121,7 +121,7 @@ Password: admin123
 
 ---
 
-##Internship Context
+## Internship Context
 
 This project was developed during a **summer internship at BTE (Banque de Tunisie et des Emirats)** as part of a Business Information Systems curriculum. The goal was to build a functional internal tool that replaces manual spreadsheet-based processes with a structured desktop application.
 
