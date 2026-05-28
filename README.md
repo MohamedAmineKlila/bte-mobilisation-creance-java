@@ -126,4 +126,4 @@ This project was developed during a **summer internship at BTE (Banque de Tunisi
 
 This project is licensed under the Apache License 2.0 — see the [LICENSE](LICENSE) file for details.
 
-> **Note:** This repository contains only sample/dummy data. All real bank data used during development has been removed to comply with data confidentiality requirements.
+> **Note:** All real bank data used during development has been removed to comply with data confidentiality requirements.
