@@ -61,7 +61,7 @@ mobilisation-swing-app/
 ├── src/
 │   └── resources/
 │       └── *.jpg                           # BTE branding assets
-├── database/
+├── database/ (Was removed due to privacy and security reasons)
 │   ├── users.txt                           # User credentials (sample only)
 │   ├── TYPES_CREDITS_MCR.xlsx              # Credit type reference data
 │   ├── invoices.xlsx                       # Invoice records
