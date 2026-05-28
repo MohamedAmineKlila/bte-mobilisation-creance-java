@@ -61,7 +61,7 @@ mobilisation-swing-app/
 ├── src/
 │   └── resources/
 │       └── *.jpg                           # BTE branding assets
-├── database/ (Was removed due to privacy and security reasons)
+├── database/ (Original bank data has been removed for confidentiality reasons)
 │   ├── users.txt                           # User credentials (sample only)
 │   ├── TYPES_CREDITS_MCR.xlsx              # Credit type reference data
 │   ├── invoices.xlsx                       # Invoice records
@@ -99,15 +99,6 @@ mobilisation-swing-app/
    ```
 
    Or simply open the project in IntelliJ IDEA and run `Main.java`.
-
-### Default Login (Sample Data)
-
-```
-Username: admin
-Password: admin123
-```
-
-> ⚠️ The data files in `/database` are sample/dummy files. Original bank data has been removed for confidentiality reasons.
 
 ---
 
